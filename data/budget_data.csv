@@ -1,0 +1,301 @@
+department,area,total_budget,used_budget,remaining_budget
+Sanitation Department,Hadapsar,80649,16738,63911
+Sanitation Department,Shivajinagar,87717,22886,64831
+Sanitation Department,Kothrud,63143,32444,30699
+Sanitation Department,Aundh,93297,42809,50488
+Sanitation Department,Baner,99275,31482,67793
+Sanitation Department,Kharadi,79298,24672,54626
+Sanitation Department,Wagholi,79075,25513,53562
+Sanitation Department,Yerwada,99362,41227,58135
+Sanitation Department,Kondhwa,76528,53747,22781
+Sanitation Department,Warje,82090,37354,44736
+Sanitation Department,Sinhagad Road,44361,33634,10727
+Sanitation Department,Karve Nagar,52776,39485,13291
+Sanitation Department,Dhayari,86087,31355,54732
+Sanitation Department,Bavdhan,82774,24878,57896
+Sanitation Department,Viman Nagar,87438,14538,72900
+Sanitation Department,Koregaon Park,95592,10744,84848
+Sanitation Department,NIBM Road,61471,38804,22667
+Sanitation Department,Swargate,86074,76170,9904
+Sanitation Department,Tilak Road,60583,27508,33075
+Sanitation Department,Camp,81494,53715,27779
+Sanitation Department,Mundhwa,66319,24974,41345
+Sanitation Department,Bibwewadi,71847,21720,50127
+Sanitation Department,Fatima Nagar,58258,29442,28816
+Sanitation Department,Katraj,60854,45949,14905
+Sanitation Department,Magarpatta,82352,72662,9690
+Sanitation Department,Wanowrie,53808,47445,6363
+Sanitation Department,Pashan,55149,32522,22627
+Sanitation Department,Pimpri,82687,39400,43287
+Sanitation Department,Nigdi,41573,28094,13479
+Sanitation Department,Chinchwad,48412,13987,34425
+Water Supply Department,Hadapsar,74367,56802,17565
+Water Supply Department,Shivajinagar,71917,42206,29711
+Water Supply Department,Kothrud,63011,54934,8077
+Water Supply Department,Aundh,52389,28560,23829
+Water Supply Department,Baner,81329,58459,22870
+Water Supply Department,Kharadi,61939,16557,45382
+Water Supply Department,Wagholi,88373,51581,36792
+Water Supply Department,Yerwada,98556,41441,57115
+Water Supply Department,Kondhwa,56429,15948,40481
+Water Supply Department,Warje,70904,61835,9069
+Water Supply Department,Sinhagad Road,99988,73292,26696
+Water Supply Department,Karve Nagar,66948,21252,45696
+Water Supply Department,Dhayari,91157,52076,39081
+Water Supply Department,Bavdhan,79035,36989,42046
+Water Supply Department,Viman Nagar,43538,10427,33111
+Water Supply Department,Koregaon Park,99673,62262,37411
+Water Supply Department,NIBM Road,93309,21096,72213
+Water Supply Department,Swargate,67521,19378,48143
+Water Supply Department,Tilak Road,70243,61323,8920
+Water Supply Department,Camp,54207,47483,6724
+Water Supply Department,Mundhwa,85341,69882,15459
+Water Supply Department,Bibwewadi,55396,27856,27540
+Water Supply Department,Fatima Nagar,80077,18411,61666
+Water Supply Department,Katraj,62803,23135,39668
+Water Supply Department,Magarpatta,67640,59199,8441
+Water Supply Department,Wanowrie,84545,20095,64450
+Water Supply Department,Pashan,54911,16612,38299
+Water Supply Department,Pimpri,62316,41620,20696
+Water Supply Department,Nigdi,73760,51251,22509
+Water Supply Department,Chinchwad,53300,13718,39582
+Roads and Transport Department,Hadapsar,60631,14567,46064
+Roads and Transport Department,Shivajinagar,95010,11428,83582
+Roads and Transport Department,Kothrud,48720,26450,22270
+Roads and Transport Department,Aundh,42591,36498,6093
+Roads and Transport Department,Baner,57115,43582,13533
+Roads and Transport Department,Kharadi,67839,25190,42649
+Roads and Transport Department,Wagholi,41856,19109,22747
+Roads and Transport Department,Yerwada,42300,21922,20378
+Roads and Transport Department,Kondhwa,65279,45451,19828
+Roads and Transport Department,Warje,96311,19381,76930
+Roads and Transport Department,Sinhagad Road,49309,41913,7396
+Roads and Transport Department,Karve Nagar,85662,66788,18874
+Roads and Transport Department,Dhayari,89172,75208,13964
+Roads and Transport Department,Bavdhan,62768,52868,9900
+Roads and Transport Department,Viman Nagar,44885,31888,12997
+Roads and Transport Department,Koregaon Park,49763,38791,10972
+Roads and Transport Department,NIBM Road,76198,67631,8567
+Roads and Transport Department,Swargate,62142,52889,9253
+Roads and Transport Department,Tilak Road,57091,23848,33243
+Roads and Transport Department,Camp,92448,12267,80181
+Roads and Transport Department,Mundhwa,77920,51130,26790
+Roads and Transport Department,Bibwewadi,54942,33159,21783
+Roads and Transport Department,Fatima Nagar,93653,84758,8895
+Roads and Transport Department,Katraj,85118,72382,12736
+Roads and Transport Department,Magarpatta,66559,45185,21374
+Roads and Transport Department,Wanowrie,87049,45611,41438
+Roads and Transport Department,Pashan,69607,33137,36470
+Roads and Transport Department,Pimpri,75718,53099,22619
+Roads and Transport Department,Nigdi,46080,16818,29262
+Roads and Transport Department,Chinchwad,68183,17897,50286
+Street Lights Maintenance,Hadapsar,56923,50752,6171
+Street Lights Maintenance,Shivajinagar,89647,22463,67184
+Street Lights Maintenance,Kothrud,60573,35149,25424
+Street Lights Maintenance,Aundh,72474,12902,59572
+Street Lights Maintenance,Baner,51941,24438,27503
+Street Lights Maintenance,Kharadi,97139,37310,59829
+Street Lights Maintenance,Wagholi,85919,77390,8529
+Street Lights Maintenance,Yerwada,76089,45084,31005
+Street Lights Maintenance,Kondhwa,84220,12060,72160
+Street Lights Maintenance,Warje,54164,34050,20114
+Street Lights Maintenance,Sinhagad Road,69230,12393,56837
+Street Lights Maintenance,Karve Nagar,87396,56562,30834
+Street Lights Maintenance,Dhayari,79943,21374,58569
+Street Lights Maintenance,Bavdhan,84941,25521,59420
+Street Lights Maintenance,Viman Nagar,66553,19198,47355
+Street Lights Maintenance,Koregaon Park,59972,41668,18304
+Street Lights Maintenance,NIBM Road,54497,24380,30117
+Street Lights Maintenance,Swargate,48475,40938,7537
+Street Lights Maintenance,Tilak Road,50977,13341,37636
+Street Lights Maintenance,Camp,93543,58995,34548
+Street Lights Maintenance,Mundhwa,70832,27076,43756
+Street Lights Maintenance,Bibwewadi,97534,64153,33381
+Street Lights Maintenance,Fatima Nagar,59122,35502,23620
+Street Lights Maintenance,Katraj,99857,22523,77334
+Street Lights Maintenance,Magarpatta,88046,25990,62056
+Street Lights Maintenance,Wanowrie,40917,13841,27076
+Street Lights Maintenance,Pashan,98776,42516,56260
+Street Lights Maintenance,Pimpri,88389,27992,60397
+Street Lights Maintenance,Nigdi,76393,23717,52676
+Street Lights Maintenance,Chinchwad,84100,35607,48493
+Drainage Department,Hadapsar,52850,17314,35536
+Drainage Department,Shivajinagar,54375,36183,18192
+Drainage Department,Kothrud,65451,45509,19942
+Drainage Department,Aundh,73230,10604,62626
+Drainage Department,Baner,42220,35839,6381
+Drainage Department,Kharadi,56493,46051,10442
+Drainage Department,Wagholi,43995,37516,6479
+Drainage Department,Yerwada,85140,75789,9351
+Drainage Department,Kondhwa,48817,25285,23532
+Drainage Department,Warje,52231,34408,17823
+Drainage Department,Sinhagad Road,84633,75439,9194
+Drainage Department,Karve Nagar,61787,39443,22344
+Drainage Department,Dhayari,74901,28028,46873
+Drainage Department,Bavdhan,57122,44191,12931
+Drainage Department,Viman Nagar,41749,10797,30952
+Drainage Department,Koregaon Park,68676,11464,57212
+Drainage Department,NIBM Road,97973,38396,59577
+Drainage Department,Swargate,77602,50863,26739
+Drainage Department,Tilak Road,80909,43127,37782
+Drainage Department,Camp,50710,36599,14111
+Drainage Department,Mundhwa,48629,12321,36308
+Drainage Department,Bibwewadi,68162,47859,20303
+Drainage Department,Fatima Nagar,98733,78526,20207
+Drainage Department,Katraj,92623,73092,19531
+Drainage Department,Magarpatta,60636,14693,45943
+Drainage Department,Wanowrie,41354,32551,8803
+Drainage Department,Pashan,66106,59507,6599
+Drainage Department,Pimpri,63223,45958,17265
+Drainage Department,Nigdi,50132,33522,16610
+Drainage Department,Chinchwad,70629,45276,25353
+Health Department,Hadapsar,77029,58948,18081
+Health Department,Shivajinagar,84849,49426,35423
+Health Department,Kothrud,78314,40357,37957
+Health Department,Aundh,83724,56332,27392
+Health Department,Baner,46965,21758,25207
+Health Department,Kharadi,70140,39457,30683
+Health Department,Wagholi,60895,24638,36257
+Health Department,Yerwada,94296,60004,34292
+Health Department,Kondhwa,71019,42792,28227
+Health Department,Warje,76301,21409,54892
+Health Department,Sinhagad Road,84111,28032,56079
+Health Department,Karve Nagar,49797,34351,15446
+Health Department,Dhayari,59409,30905,28504
+Health Department,Bavdhan,82105,50003,32102
+Health Department,Viman Nagar,71268,20403,50865
+Health Department,Koregaon Park,79546,13059,66487
+Health Department,NIBM Road,95814,49680,46134
+Health Department,Swargate,75521,64444,11077
+Health Department,Tilak Road,90104,58489,31615
+Health Department,Camp,98325,24498,73827
+Health Department,Mundhwa,73568,30401,43167
+Health Department,Bibwewadi,52963,22041,30922
+Health Department,Fatima Nagar,50136,18180,31956
+Health Department,Katraj,62578,39195,23383
+Health Department,Magarpatta,96080,64284,31796
+Health Department,Wanowrie,69045,35671,33374
+Health Department,Pashan,58112,20142,37970
+Health Department,Pimpri,82116,35733,46383
+Health Department,Nigdi,77623,29353,48270
+Health Department,Chinchwad,70341,22927,47414
+Parks and Gardens Department,Hadapsar,82031,67504,14527
+Parks and Gardens Department,Shivajinagar,93671,66759,26912
+Parks and Gardens Department,Kothrud,90190,54007,36183
+Parks and Gardens Department,Aundh,96474,41720,54754
+Parks and Gardens Department,Baner,80903,37336,43567
+Parks and Gardens Department,Kharadi,75377,16682,58695
+Parks and Gardens Department,Wagholi,43818,15707,28111
+Parks and Gardens Department,Yerwada,78461,51439,27022
+Parks and Gardens Department,Kondhwa,73011,48685,24326
+Parks and Gardens Department,Warje,92497,66579,25918
+Parks and Gardens Department,Sinhagad Road,85202,21920,63282
+Parks and Gardens Department,Karve Nagar,54149,24523,29626
+Parks and Gardens Department,Dhayari,90343,81889,8454
+Parks and Gardens Department,Bavdhan,86711,64852,21859
+Parks and Gardens Department,Viman Nagar,49337,39849,9488
+Parks and Gardens Department,Koregaon Park,47395,17013,30382
+Parks and Gardens Department,NIBM Road,61620,41722,19898
+Parks and Gardens Department,Swargate,44374,28422,15952
+Parks and Gardens Department,Tilak Road,61085,29924,31161
+Parks and Gardens Department,Camp,69448,43060,26388
+Parks and Gardens Department,Mundhwa,76957,60070,16887
+Parks and Gardens Department,Bibwewadi,60037,41235,18802
+Parks and Gardens Department,Fatima Nagar,89309,25849,63460
+Parks and Gardens Department,Katraj,54416,26769,27647
+Parks and Gardens Department,Magarpatta,88578,80827,7751
+Parks and Gardens Department,Wanowrie,45626,37276,8350
+Parks and Gardens Department,Pashan,71842,18389,53453
+Parks and Gardens Department,Pimpri,86058,42259,43799
+Parks and Gardens Department,Nigdi,69492,36260,33232
+Parks and Gardens Department,Chinchwad,85437,32536,52901
+Education and Welfare Department,Hadapsar,40552,29853,10699
+Education and Welfare Department,Shivajinagar,96558,58158,38400
+Education and Welfare Department,Kothrud,62857,45304,17553
+Education and Welfare Department,Aundh,94972,61266,33706
+Education and Welfare Department,Baner,85737,44717,41020
+Education and Welfare Department,Kharadi,64966,31413,33553
+Education and Welfare Department,Wagholi,40302,21779,18523
+Education and Welfare Department,Yerwada,50906,34974,15932
+Education and Welfare Department,Kondhwa,66983,38667,28316
+Education and Welfare Department,Warje,41203,28784,12419
+Education and Welfare Department,Sinhagad Road,63103,46292,16811
+Education and Welfare Department,Karve Nagar,94895,50228,44667
+Education and Welfare Department,Dhayari,61545,54115,7430
+Education and Welfare Department,Bavdhan,92395,50154,42241
+Education and Welfare Department,Viman Nagar,74376,34579,39797
+Education and Welfare Department,Koregaon Park,86390,42477,43913
+Education and Welfare Department,NIBM Road,90845,67179,23666
+Education and Welfare Department,Swargate,41691,34185,7506
+Education and Welfare Department,Tilak Road,44474,23015,21459
+Education and Welfare Department,Camp,43649,36227,7422
+Education and Welfare Department,Mundhwa,53119,29947,23172
+Education and Welfare Department,Bibwewadi,73340,53445,19895
+Education and Welfare Department,Fatima Nagar,80935,65650,15285
+Education and Welfare Department,Katraj,45967,13495,32472
+Education and Welfare Department,Magarpatta,95974,21866,74108
+Education and Welfare Department,Wanowrie,47952,14418,33534
+Education and Welfare Department,Pashan,91999,71095,20904
+Education and Welfare Department,Pimpri,52971,31670,21301
+Education and Welfare Department,Nigdi,60449,43293,17156
+Education and Welfare Department,Chinchwad,97878,83690,14188
+Building and Construction Department,Hadapsar,57912,51326,6586
+Building and Construction Department,Shivajinagar,67987,55877,12110
+Building and Construction Department,Kothrud,54972,16554,38418
+Building and Construction Department,Aundh,97365,10102,87263
+Building and Construction Department,Baner,58568,38234,20334
+Building and Construction Department,Kharadi,96621,73059,23562
+Building and Construction Department,Wagholi,80698,27099,53599
+Building and Construction Department,Yerwada,58547,29219,29328
+Building and Construction Department,Kondhwa,76148,41938,34210
+Building and Construction Department,Warje,86174,69784,16390
+Building and Construction Department,Sinhagad Road,95066,77930,17136
+Building and Construction Department,Karve Nagar,90971,74743,16228
+Building and Construction Department,Dhayari,52296,39287,13009
+Building and Construction Department,Bavdhan,78128,72122,6006
+Building and Construction Department,Viman Nagar,79668,34636,45032
+Building and Construction Department,Koregaon Park,67481,22539,44942
+Building and Construction Department,NIBM Road,89355,29808,59547
+Building and Construction Department,Swargate,83651,37949,45702
+Building and Construction Department,Tilak Road,94384,20472,73912
+Building and Construction Department,Camp,79261,46403,32858
+Building and Construction Department,Mundhwa,66599,22196,44403
+Building and Construction Department,Bibwewadi,47474,34309,13165
+Building and Construction Department,Fatima Nagar,85287,20288,64999
+Building and Construction Department,Katraj,53180,28762,24418
+Building and Construction Department,Magarpatta,50807,43809,6998
+Building and Construction Department,Wanowrie,42074,32519,9555
+Building and Construction Department,Pashan,67852,42893,24959
+Building and Construction Department,Pimpri,63896,33794,30102
+Building and Construction Department,Nigdi,54871,29688,25183
+Building and Construction Department,Chinchwad,67875,25651,42224
+Public Safety Department,Hadapsar,62442,35153,27289
+Public Safety Department,Shivajinagar,83220,40073,43147
+Public Safety Department,Kothrud,41851,11326,30525
+Public Safety Department,Aundh,88056,25340,62716
+Public Safety Department,Baner,57861,46634,11227
+Public Safety Department,Kharadi,99255,29927,69328
+Public Safety Department,Wagholi,67430,26929,40501
+Public Safety Department,Yerwada,78705,62339,16366
+Public Safety Department,Kondhwa,42627,30351,12276
+Public Safety Department,Warje,50818,15727,35091
+Public Safety Department,Sinhagad Road,95378,52659,42719
+Public Safety Department,Karve Nagar,87758,16738,71020
+Public Safety Department,Dhayari,84842,19055,65787
+Public Safety Department,Bavdhan,50955,43467,7488
+Public Safety Department,Viman Nagar,77678,66830,10848
+Public Safety Department,Koregaon Park,49525,24986,24539
+Public Safety Department,NIBM Road,75519,14669,60850
+Public Safety Department,Swargate,87719,10303,77416
+Public Safety Department,Tilak Road,96264,20592,75672
+Public Safety Department,Camp,90444,55693,34751
+Public Safety Department,Mundhwa,88726,23685,65041
+Public Safety Department,Bibwewadi,45408,14087,31321
+Public Safety Department,Fatima Nagar,93745,37311,56434
+Public Safety Department,Katraj,90843,37637,53206
+Public Safety Department,Magarpatta,97196,18932,78264
+Public Safety Department,Wanowrie,47650,11422,36228
+Public Safety Department,Pashan,74924,41408,33516
+Public Safety Department,Pimpri,56142,48098,8044
+Public Safety Department,Nigdi,62479,53924,8555
+Public Safety Department,Chinchwad,92190,44798,47392
