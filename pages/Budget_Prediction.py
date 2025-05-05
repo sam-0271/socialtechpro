@@ -62,11 +62,25 @@ else:
             predicted_used = used_budget_model.predict(used_input)[0]
             predicted_remaining = predicted_total - predicted_used
 
+            # Check for potential corruption if the difference is large
+            corruption_threshold = 0.2  # 20% difference considered as corruption
+            corruption_message = ""
+
+            total_budget_diff = abs(actual_total_budget - predicted_total) / actual_total_budget
+            used_budget_diff = abs(actual_used_budget - predicted_used) / actual_used_budget
+
+            if total_budget_diff > corruption_threshold or used_budget_diff > corruption_threshold:
+                corruption_message = "⚠️ Potential Corruption Detected: Large budget discrepancy!"
+
             # Show Prediction
             st.success("✅ Budget Prediction Completed")
             st.metric("Predicted Total Budget", f"₹{predicted_total:,.2f}")
             st.metric("Predicted Used Budget", f"₹{predicted_used:,.2f}")
             st.metric("Predicted Remaining Budget", f"₹{predicted_remaining:,.2f}")
+
+            # Show corruption warning if applicable
+            if corruption_message:
+                st.warning(corruption_message)
 
             # === 📊 Charts Section ===
             st.header("📊 Visual Comparisons")
@@ -144,8 +158,6 @@ else:
                         startangle=140)
                 ax3.set_title("Predicted Budget")
                 st.pyplot(fig3)
-
-            
 
         except Exception as e:
             st.error(f"❌ Error during prediction or visualization: {e}")
