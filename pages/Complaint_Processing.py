@@ -1,5 +1,3 @@
-# Complaint_Management.py
-
 import streamlit as st
 import pandas as pd
 import joblib
@@ -41,10 +39,40 @@ type_to_department = {
 }
 
 # ===========================
-# UI
+# UI Styling & Layout
 # ===========================
 st.set_page_config(page_title="Smart Complaint Management System", page_icon="📣", layout="wide")
+
+# Custom CSS to enhance the page styling
+st.markdown("""
+    <style>
+        .big-font {
+            font-size: 24px !important;
+            font-weight: bold;
+            color: #ff6347;
+        }
+        .header-font {
+            font-size: 28px !important;
+            color: #008080;
+        }
+        .section-header {
+            font-size: 22px !important;
+            color: #4169e1;
+        }
+        .card {
+            background-color: #f0f8ff;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+""", unsafe_allow_html=True)
+
+# Title
 st.title("📣 **Smart Complaint Management System**")
+st.markdown("### **Submit Your Complaint and Predict Resolution Time**")
+st.markdown("---")
 
 # Step 1: Complaint Filing
 st.header("📝 **Step 1: File a Complaint**")
@@ -82,6 +110,9 @@ if submitted:
     st.write(f"• 🏢 **Assigned Department**: {department}")
     st.write(f"• 🔺 **Predicted Priority**: {priority}")
 
+    st.markdown("---")
+    st.markdown("<h4 class='big-font'>Your complaint has been successfully filed! 🎉</h4>", unsafe_allow_html=True)
+
 # Step 3: ETA Prediction
 if 'department' in st.session_state and st.button("▶️ **Predict Estimated Resolution Time (ETA)**"):
     st.subheader("⏳ **Step 3: Predicted Resolution Time**")
@@ -107,8 +138,15 @@ if 'department' in st.session_state and st.button("▶️ **Predict Estimated Re
     st.write(f"✅ **Expected Completion Date**: {expected_completion.strftime('%d %B %Y')}")
 
     st.success("🎉 **Complaint processed successfully!**")
-    st.info("💰 **Budget Allocation Check — Go to Budget_Analysis.py**")
+    st.info("💰 **Check Budget Allocation: Go to Budget_Analysis.py**")
 
-
-
-
+    # Add Call-to-Action Button
+    st.markdown("""
+    <div style='text-align:center;'>
+        <a href="https://your-link-here.com" target="_blank">
+            <button style="background-color:#008080; color:white; padding:10px 20px; border-radius:5px; font-size:16px;">
+                Visit Budget Analysis
+            </button>
+        </a>
+    </div>
+    """, unsafe_allow_html=True)
