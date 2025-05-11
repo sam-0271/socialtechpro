@@ -67,26 +67,6 @@ with col2:
 
 # -------------------- Future Complaints Prediction --------------------
 st.markdown("---")
-st.subheader("🔮 Future Complaints Prediction")
 
-st.markdown(
-    """
-    <div style='background-color: #fff9ed; padding: 25px; border-left: 6px solid #f39c12; border-radius: 10px; margin-top: 10px;'>
-        <p style='font-size: 17px;'>
-        The <strong>Future Complaints Prediction</strong> module uses historical data and machine learning models 
-        to predict how many complaints may be handled by a department in future months.
-        </p>
-        <ul style='font-size: 16px; line-height: 1.6;'>
-            <li>📊 Forecast departmental workload</li>
-            <li>📅 Plan staffing and resource needs in advance</li>
-            <li>📈 Improve operational efficiency with predictive insights</li>
-        </ul>
-        <p style='font-size: 17px;'>🚀 Access this module from the sidebar to explore future trends and take proactive actions!</p>
-    </div>
-    """,
-    unsafe_allow_html=True
-)
-
-# -------------------- Footer --------------------
 st.markdown("---")
 st.markdown("<center>🚀 Made with ❤️ using Python & Streamlit</center>", unsafe_allow_html=True)
