@@ -79,8 +79,13 @@ else:
             st.metric("Predicted Remaining Budget", f"₹{predicted_remaining:,.2f}")
 
             # Show corruption warning if applicable
+            # Show corruption status
             if corruption_message:
                 st.warning(corruption_message)
+                st.markdown("### 🛑 **:red[CORRUPTION DETECTED]**")
+            else:
+                st.markdown("### ✅ **:green[NO CORRUPTION DETECTED]**")
+
 
             # === 📊 Charts Section ===
             st.header("📊 Visual Comparisons")
