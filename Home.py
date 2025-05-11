@@ -65,8 +65,6 @@ with col2:
         unsafe_allow_html=True
     )
 
-# -------------------- Future Complaints Prediction --------------------
-st.markdown("---")
 
 st.markdown("---")
 st.markdown("<center>🚀 Made with ❤️ using Python & Streamlit</center>", unsafe_allow_html=True)
